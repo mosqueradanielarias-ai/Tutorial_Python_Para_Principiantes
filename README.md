@@ -10,3 +10,7 @@ Descripción
 
 Este es un proyecto que busca ayudar a personas particulares a comprener conceptos y códigos basicos de Python
 
+Este tutorial busca ser incluyente con respecto al mundo de la ciencia de datos 
+
+como punto de partida:
+
