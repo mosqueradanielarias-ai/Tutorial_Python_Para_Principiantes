@@ -6,3 +6,7 @@
 **Fecha** 15 de sept de 2026
 
 
+Descripción
+
+Este es un proyecto que busca ayudar a personas particulares a comprener conceptos y códigos basicos de Python
+
