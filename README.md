@@ -11,4 +11,4 @@
 
 **Descripción**
 
-Este es un proyecto que busca ayudar a personas particulares a comprener conceptos y códigos basicos de Python. Bajo el propósito de lograr una aceptada esperiencia de los usuarios, mediante la estrategia de 
+Este es un proyecto que busca ayudar a personas particulares a comprener conceptos y códigos basicos de Python. Bajo el propósito de lograr una aceptada esperiencia de los usuarios, mediante la estrategia. que 
