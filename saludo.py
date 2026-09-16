@@ -1,3 +1,5 @@
 print("Académia")
 print("hello")
 print("hoy es un dia soleado")
+print("que mas")
+print("hello, hemos logrado pasar al CANE. El consurso academico nacional de economia que reune a los 5 mejores estudiantes de todas las universidades de colombia y algunas de latinoamerica")
